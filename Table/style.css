@@ -1,0 +1,17 @@
+table,th,td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+th,td{
+	padding: 10px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+	color: black;
+	font-size: 50px;
+}
+
+
+tr:hover {background-color: #D6EEEE;}
